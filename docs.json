@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "CR Labz",
   "colors": {
     "primary": "#3B82F6",
     "light": "#60A5FA",
